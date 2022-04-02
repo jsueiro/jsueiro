@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi 👋 I'm Juan
+And I've been coding stuff for the past 20 years 
+...well, "professionally" for about two to three years first, 
+and then life took me to the dark side ![kindpng_311899](https://user-images.githubusercontent.com/1832377/161396863-4161b703-3291-4de6-9e91-c477c089f051.png) and I became a SysAdmin -> fast forward to today into management.
+
+Still, software engineering's been always a passion, so now I restarted a parallel path to refresh my knowledge as a full stack dev. 
+
+Here you'll find some little experiments and contributions I'm currently working on. 
+
+Cheers !
 
 <!--
 **jsueiro/jsueiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
