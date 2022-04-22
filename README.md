@@ -1,7 +1,7 @@
 Hi 👋 I'm Juan
 =====================
 
-Here you'll find some little experiments and contributions I'm currently working on. Cheers !
+Here you'll find some little experiments and contributions I'm currently working on. 
 
 
 
